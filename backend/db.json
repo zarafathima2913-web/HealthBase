@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "_id": "demo-admin",
+      "name": "System Admin",
+      "email": "admin@healthbase.com",
+      "password": "cGFzc3dvcmQxMjM=",
+      "role": "admin",
+      "isOnboarded": true
+    },
+    {
+      "_id": "demo-doctor",
+      "name": "Dr. Demo",
+      "email": "doctor@healthbase.com",
+      "password": "cGFzc3dvcmQxMjM=",
+      "role": "doctor",
+      "isOnboarded": true
+    },
+    {
+      "_id": "demo-patient",
+      "name": "Demo Patient",
+      "email": "patient@healthbase.com",
+      "password": "cGFzc3dvcmQxMjM=",
+      "role": "user",
+      "isOnboarded": true
+    }
+  ],
+  "records": []
+}
